@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TgyzTD7Wr94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=TgyzTD7Wr94)
+\
 
 This project is a starting point for a Flutter application.
 
